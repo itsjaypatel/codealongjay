@@ -46,40 +46,40 @@ Java provides a new additional package in Java 8 called java.util.stream. This p
 - **Article**: [Introduction to Java Stream](https://www.baeldung.com/java-8-streams)
 - **Video**: [Java Stream API](https://www.youtube.com/watch?v=VNovNwHr9jY)
 
-## 5. Maven
+## 6. Maven
 
 Maven is an open-source build tool, used primarily for Java projects.
 
 - **Video**: [Introduction to Maven](https://maven.apache.org/guides/getting-started/)
 - **Video**: [Project Management with Maven](https://youtu.be/1e4jNP8iKLo?si=8AhVAnkN1F_ovzRB)
 
-## 6. Exception Handling
+## 7. Exception Handling
 
 Exception Handling in Java is one of the effective means to handle the runtime errors so that the regular flow of the application can be preserved. Java Exception Handling is a mechanism to handle runtime errors such as ClassNotFoundException, IOException, SQLException, RemoteException, etc.
 
 - **Video**: [Master Java Exception Handling](https://naveen-metta.medium.com/mastering-java-exception-handling-a-comprehensive-guide-a897b8020582)
 - **Video**: [Understanding Java Exceptions](https://www.youtube.com/watch?v=W-N2ltgU-X4)
 
-## 7. Serialization
+## 8. Serialization
 
 Serialization is the conversion of the state of an object into a byte stream; deserialization does the opposite. Stated differently, serialization is the conversion of a Java object into a static stream (sequence) of bytes, which we can then save to a database or transfer over a network.
 
 - **Article**: [Java Design Patterns](https://www.javatpoint.com/serialization-in-java)
 
-## 8. SOLID Principles
+## 9. SOLID Principles
 
 Familiarity with SOLID principles is crucial for creating maintainable and scalable object-oriented designs.
 
 - **Article**: [SOLID Principles Guide](https://www.baeldung.com/solid-principles)
 - **Video**: [SOLID Principles in 1 Video](https://youtu.be/XI7zep97c-Y?si=Si0kgDPnCHgWf0jj)
 
-## 9. JDBC (Java Database Connectivity)
+## 10. JDBC (Java Database Connectivity)
 
 Knowledge of JDBC is essential for interacting with databases and performing CRUD operations in Java applications.
 
 - **Video**: [Java JDBC](https://youtube.com/playlist?list=PLsyeobzWxl7rU7Jz3zDRpqB-EODzBbHOI&si=_5gC54Oh3um1zeqR)
 
-## 10. Reflections
+## 11. Reflections
 
 Understanding Java's reflection API is crucial for building flexible and dynamic applications, especially in frameworks and libraries.
 
